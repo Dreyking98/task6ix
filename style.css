@@ -1,0 +1,209 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+fieldse{
+    width: fit-content;
+    background-color: rgb(39, 26, 26);
+    border-radius: 0%;
+    align-content: center;
+    float: center;
+}
+
+.container{
+    align-self: center;
+    text-align: center;
+    
+}
+
+.hire{
+    background-color: aqua;
+    color: #ffffff;
+    padding: 0 0 0 0;
+    border-radius: 3px;
+    border: 0;
+    width: 100px;
+    height: 22px;
+}
+
+.see{
+    background-color: aqua;
+    color: #ffffff;
+    padding: 0 0 0 0;
+    border-radius: 3px;
+    border: 0;
+    width: 120px;
+    height: 22px;
+}
+
+.projectblue{
+    color: aqua;
+}
+
+.hello{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    margin-top: 80px;
+}
+
+h1{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+
+.me{
+    color: white;
+    margin-top: 10px;
+}
+
+.uix{
+    color: aqua;
+}
+
+h2{
+    color: white;
+}
+
+h3{
+    color: white;
+}
+
+h4{
+    color: aqua;
+}
+
+.services{
+    color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.product{
+    color: aqua;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+
+.design{
+    color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.user{
+    color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.web{
+    color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.project1{
+    color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.project2{
+    color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.project3{
+     color: aqua;
+     font-family: Arial, Helvetica, sans-serif;
+}
+
+.project4{
+     color: aqua;
+     font-family: Arial, Helvetica, sans-serif;
+}
+
+.project5{
+     color: aqua;
+     font-family: Arial, Helvetica, sans-serif;
+}
+
+.project6{
+     color: aqua;
+     font-family: Arial, Helvetica, sans-serif;
+}
+
+.fidelity{
+    color: aqua;
+}
+
+.Fwriteup{
+    color: #ffffff;
+}
+
+.software{
+    color: aqua;
+}
+
+.Swriteup{
+    color: #ffffff;
+}
+
+.Mobile{
+    color: aqua;
+}
+
+.Mwriteup{
+    color: #ffffff;
+}
+
+.Legacy{
+    color: aqua;
+}
+
+.Lwriteup{
+    color: #ffffff;
+}
+
+.phlox{
+    color: aqua;
+}
+
+.Pwriteup{
+    color: #ffffff;
+}
+
+.commerce{
+    color: aqua;
+}
+
+.Cwriteup{
+    color: #ffffff;
+}
+
+h5{
+    color: #ffffff;
+}
+
+address{
+    color: #ffffff;
+}
+
+fieldset{
+    align-items: center;
+    background-color: aqua;
+    place-content: center;
+    width: 100px;
+    padding: 20px;
+    border: 0;
+    margin: auto;
+    margin-top: 10px;
+    border-radius: 4px;
+}
+
+.recent{
+    background-color: rgb(223, 208, 208);
+    
+}
+
+.Copyright{
+    margin-top: 40px;
+}
